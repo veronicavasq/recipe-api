@@ -43,7 +43,7 @@ Additionally, integrations test are implemented using Cucumber and Testcontainer
 1. Clone project in your local computer:
 
 ```
-git clone https://github.com/veronicavasq/recipes.git
+git clone https://github.com/veronicavasq/recipe-api.git
 ```
 
 2. If you don't have MySql on your machine, you could run a mysql container with the following commands:
